@@ -7,7 +7,6 @@
   <li>Darnlei 10</li>
   <li>Marney 10</li>
   <li>Edson 11</li>
-  <li>Eduardo 11</li>
   <li>Braúlio</li>
   <li>Prof. Rogério</li>
   <li>Gabriel 11</li>
